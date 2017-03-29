@@ -2,8 +2,13 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
+<<<<<<< HEAD
       <webServer id="2a7d0f29-6e42-49a5-8449-40b121ddfd1a" name="apache" url="http://localhost">
         <fileTransfer port="0" mountedRoot="$PROJECT_DIR$/.." accessType="MOUNT" />
+=======
+      <webServer id="56709577-03c9-49f2-bf36-b0e6d48d8d65" name="apach" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="C:\xampp\htdocs" accessType="MOUNT" />
+>>>>>>> 10db5cf687768ee714f8528fea060d23e08f62f8
       </webServer>
     </option>
   </component>

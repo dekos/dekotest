@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="PublishConfigData" serverName="apache">
     <serverData>
       <paths name="apache">
+=======
+  <component name="PublishConfigData" serverName="apach">
+    <serverData>
+      <paths name="apach">
+>>>>>>> 10db5cf687768ee714f8528fea060d23e08f62f8
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/dekotest" />
