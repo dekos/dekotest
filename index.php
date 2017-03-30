@@ -2,4 +2,9 @@
 
 echo  'dekotest 2';
 echo 44;
-echo 'Deko';
+  echo 100   ;
+  ?>
+<div>Deko</div>
+
+
+
